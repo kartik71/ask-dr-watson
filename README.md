@@ -7,7 +7,7 @@ You can see a preview of this app in action and a brieft walkthrough of the code
 
 [https://youtu.be/0kedhwC3ikY][youtube_video_snip_url]
 
-[![Video - mobile app on iPhone](http://img.youtube.com/vi/0kedhwC3ikY/0.jpg)][youtube_video_snip_url]<br/>
+[<img src="./github_content/video.jpg" width="100%">][youtube_video_snip_url]<br/>
 
 
 
