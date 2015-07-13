@@ -5,8 +5,9 @@ This app is meant to serve as a demo to showcase how you could integrate IBM Wat
 
 You can see a preview of this app in action and a brieft walkthrough of the code in the following video preview: 
 
+[https://youtu.be/0kedhwC3ikY][youtube_video_snip_url]
 [![Video - mobile app on iPhone](http://img.youtube.com/vi/0kedhwC3ikY/0.jpg)][youtube_video_snip_url]<br/>
-[youtube_video_url][youtube_video_snip_url]
+
 
 
 ### Bluemix Services Used
