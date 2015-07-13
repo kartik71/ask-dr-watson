@@ -159,6 +159,46 @@ The native iOS application requires Xcode running on a Mac to compile and deploy
 
 ---------
 
+### Asking Questions
+The Watson API is incredibly powerful, but this sample is designed using only the public healthcare data set, which is trained to only answer [specific kinds of questions][data_coropora_url].
+
+Watson QA data corpora can be customized and created for any data set, however this requires system training and an engagement with IBM. Only limited healthcare and travel copora are available for the free public data sets.
+
+####Need some ideas of what to ask?
+
+Conditional Questions:
+* What is X?
+* What causes X?
+* What is the treatment for X?
+* What are the symptoms of X?
+* Am I at risk of X?
+
+Procedure Questions:
+* What should I expect before X?
+* What should I expect after X?
+
+Sample Conditional Questions:
+* What are symptoms of Parkinson's disease?
+* What is Machado-Joseph Disease?
+* What causes Wilson Disease?
+* What is the treatment for Autoimmune Hepatitis?
+* Am I at risk of a stroke?
+* What can I expect before heart surgery?
+* What can I expect after a colonoscopy?
+* What are the benefits of taking aspirin daily?
+
+General Health Questions:
+* What are the benefits of taking aspirin daily?
+* Why do I need to get shots?
+* How do I know if I have food poisoning?
+
+Action-Related Questions:
+* How can I quit smoking?
+* What should I do if my child is obese?
+* What can I do to get more calcium?
+
+---------
+
 ### Troubleshooting
 
 To troubleshoot your the server side of your Bluemix app the main useful source of information is the logs. To see them, run:
@@ -195,3 +235,4 @@ Deployment tracking can be disabled by removing `require("cf-deployment-tracker-
 [watson_healthcare_url]: http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/doc/qaapi/corpora.shtml#healthcare
 [youtube_video_url]: http://www.youtube.com/watch?v=0kedhwC3ikY
 [youtube_video_snip_url]: https://ibm.biz/BdX8gb
+[data_coropora_url]: http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/doc/qaapi/#corpora
